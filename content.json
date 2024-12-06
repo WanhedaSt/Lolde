@@ -1,26 +1,66 @@
 {
-  "categories": {
-    "1": {
-      "name": "Cheats",
-      "subcategories": {
-        "1": {
-          "name": "Valorant",
-          "games": {
-            "1": ["Valorant - Aim", "URL", "online", "6.2.7"],
-            "2": ["Valorant - PrivAim", "URL", "online", "6.2.7"]
+    "categories": {
+      "1": {
+        "name": "Cheats",
+        "subcategories": {
+          "1": {
+            "name": "Valorant",
+            "games": {
+              "1": ["Valorant - Private", "URL", "online", "6.2.7"],
+              "2": ["Valorant - Premium", "URL", "online", "6.2.7"],
+              "3": ["Valorant - SkinChanger", "URL", "online", "6.2.7"]
+            }
+          },
+          "2": {
+            "name": "Pubg",
+            "games": {
+              "1": ["Pubg - External", "URL", "online", "6.6.5"]
+            }
+          },
+          "3": {
+            "name": "FiveM",
+            "games": {
+              "1": ["Fivem - Pvp", "URL", "online", "6.6.5"],
+              "2": ["Astra - Menu", "URL", "online", "6.6.5"]
+            }
+          },
+          "4": {
+            "name": "Cs2",
+            "games": {
+              "1": ["Cs2 - External", "URL", "online", "6.6.5"]
+            }
+          },
+          "5": {
+            "name": "Apex",
+            "games": {
+              "1": ["Apex - External", "URL", "online", "6.6.5"]
+            }
+          },
+          "6": {
+            "name": "Fortnite",
+            "games": {
+              "1": ["Fortnite - External", "URL", "online", "6.6.5"]
+            }
           }
-        },
-        "2": {
-          "name": "PUBG",
-          "games": {
-            "1": ["Pubg - External", "URL", "online", "6.6.5"]
+        }
+      },
+      "2": {
+        "name": "Spoofers",
+        "subcategories": {
+            "1": {
+            "name": "Perm",
+            "games": {
+              "1": ["Kernel - Spoofer", "URL", "online", "6.2.7"]
+            }
+          },
+          "2": {
+            "name": "Temp",
+            "games": {
+              "1": ["OneClick - Spoofer", "URL", "online", "6.2.7"]
+            }
           }
         }
       }
-    },
-    "2": {
-      "name": "Spoofers",
-      "subcategories": {}
     }
   }
-}
+  
