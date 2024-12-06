@@ -1,10 +1,26 @@
-games = {
-    "1": ("Valorant - Aim", "https://cdn.discordapp.com/attachments/1272343619776282650/1310249166001279006/Valorant-ColorBot.vmp.exe?ex=6753b160&is=67525fe0&hm=6eea35003f071c7f2569bbcbfa97d6e07944ba411cee5ffa427aa14810a671c6&", "online"),
-    "2": ("Valorant - Aim+", "https://drive.usercontent.google.com/download?id=1RuSBUbUtLdmqAG5m90tYYaT6ctqlUCW8&export=download&authuser=0&confirm=t&uuid=77d13a3c-46af-47e7-9d5b-23f3c932ac92&at=AO7h07f-2BBBNfrgdXF16svjylEQ%3A1724374343761", "online"),
-    "3": ("Valorant - SkinChanger", "https://drive.usercontent.google.com/download?id=1A8WrdgRLgxOv9ltjyFJDqTZAFy1WaqRF&export=download&authuser=0&confirm=t&uuid=e063ba86-3095-497c-8414-6f569432217d&at=AO7h07dWJtMgJLVNoWVByk4HvYh1%3A1724374365015", "online"),
-    "4": ("FiveM - External", "https://cdn.discordapp.com/attachments/1272343619776282650/1310248483848196136/Fivem-External.exe?ex=6753b0bd&is=67525f3d&hm=efa458bb84dd4ddf98144b3b1f134ec9dc1a31af68f1213eaf6be3f740db9506&", "online"),
-    "5": ("Apex - External", "https://drive.usercontent.google.com/download?id=1OKO_OPoe9L3YVQenUT53Ut7MlAcF-7Bh&export=download&authuser=0&confirm=t&uuid=d56fc74a-bfa9-476e-87b8-520922918afb&at=APZUnTWWRhHLTjN8GAQnnkE-pd2h%3A1723483652664", "online"),
-    "6": ("Fortnite - External", "https://drive.usercontent.google.com/download?id=1BvIRIIYZ4cSv5SY1dSLf2Zvo8JHwE7aD&export=download&authuser=0&confirm=t&uuid=7668b5db-ee57-4916-a1a2-d5a9d89a5bb8&at=AO7h07ft8TLvfl_evVuqLmYQShJg%3A1725854479120", "online"),
-    "7": ("Astra - Menu", "https://drive.usercontent.google.com/download?id=1250Zfbd2PBN_I3uY3wBDaR9mz1OmUTb1&export=download&authuser=0&confirm=t&uuid=bae50e18-e4d9-4836-9227-cec59c130118&at=AO7h07cbwIyxTqe8DAuLB18C7irx%3A1727278543157", "online"),
-    "8": ("Kernel - Spoofer", "https://drive.usercontent.google.com/download?id=1wxCobK0DEZfzGMhyCdQEgLq2bEEHPBlV&export=download&authuser=0&confirm=t&uuid=c977b756-b0f5-4c0f-8c09-dc23b2970b8f&at=AO7h07fHWCz-MIDlyPoh8-1pAub2%3A1726523429569", "online"),
+{
+  "categories": {
+    "1": {
+      "name": "Cheats",
+      "subcategories": {
+        "1": {
+          "name": "Valorant",
+          "games": {
+            "1": ["Valorant - Aim", "URL", "online", "6.2.7"],
+            "2": ["Valorant - PrivAim", "URL", "online", "6.2.7"]
+          }
+        },
+        "2": {
+          "name": "PUBG",
+          "games": {
+            "1": ["Pubg - External", "URL", "online", "6.6.5"]
+          }
+        }
+      }
+    },
+    "2": {
+      "name": "Spoofers",
+      "subcategories": {}
+    }
+  }
 }
