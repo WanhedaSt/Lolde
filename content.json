@@ -1,0 +1,36 @@
+{
+  "categories": {
+    "cheats": {
+      "fps": [
+        {
+          "name": "Valorant",
+          "id": "val",
+          "status": "online",
+          "version": "1.0.0",
+          "url": "https://example.com/valorant.zip",
+          "password": "123"
+        }
+      ],
+      "mmo": [
+        {
+          "name": "World of Warcraft",
+          "id": "wow",
+          "status": "offline",
+          "version": "2.1.0",
+          "url": "https://example.com/wow.zip",
+          "password": "123"
+        }
+      ]
+    },
+    "spoofers": [
+      {
+        "name": "HWID Spoofer",
+        "id": "hwid",
+        "status": "online",
+        "version": "1.5.0",
+        "url": "https://example.com/hwid.zip",
+        "password": "123"
+      }
+    ]
+  }
+}
