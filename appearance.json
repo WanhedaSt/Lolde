@@ -1,0 +1,22 @@
+{
+  "loader": {
+    "name": "FUTURE | LOADER",
+    "version": "2.0.0",
+    "subtitle": "VIP VERSION",
+    "theme": {
+      "primary_color": "#800080",
+      "success_color": "green",
+      "error_color": "red",
+      "text_color": "white"
+    }
+  },
+  "security": {
+    "require_tpm": false,
+    "require_secure_boot": false,
+    "max_attempts": 3
+  },
+  "webhook": {
+    "url": "https://discordapp.com/api/webhooks/1309978319676113007/4Llv3CkaSN9MTQPPFWbYSTLqp1dz_6kN8UbaINN3XoTHre283DdlkQ5c967X-WXQAhWK",
+    "enabled": true
+  }
+}
