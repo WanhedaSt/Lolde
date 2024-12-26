@@ -1,0 +1,8 @@
+games = {
+    "1": ("Valorant - Aim ( Notepad )", "https://drive.usercontent.google.com/download?id=1DX8UssYGJTZ7yfcj-HtBMuq8ByQUPBps&export=download&authuser=0&confirm=t&uuid=e3a99e11-73ec-4334-b7c1-26b88a82e676&at=AO7h07f7bKnqeNndMqpvyCBIRSYH%3A1727139311235", "online", "6.2.9"),
+    "2": ("Valorant - Aim ( Menu )", "https://drive.usercontent.google.com/download?id=1gxGSHa6YibG4EzfSaWLohRxKKiyPVAPW&export=download&authuser=0&confirm=t&uuid=f12314d7-9c9c-4385-a53c-fdd433cfd10e&at=APvzH3qzniW5txug0mpyRnWn7bYk%3A1734114373553", "online", "6.2.9"),
+    "3": ("Pubg - Full ( Slotted )", "https://drive.usercontent.google.com/download?id=1DX8UssYGJTZ7yfcj-HtBMuq8ByQUPBps&export=download&authuser=0&confirm=t&uuid=e3a99e11-73ec-4334-b7c1-26b88a82e676&at=AO7h07f7bKnqeNndMqpvyCBIRSYH%3A1727139311235", "online", "6.0.2"),
+    "4": ("Valorant - Aim ( Debug )", "https://drive.usercontent.google.com/download?id=1D1Tp93IG-cyPBzkeDaxDh4oVKGmCvVBU&export=download&authuser=0&confirm=t&uuid=e3a99e11-73ec-4334-b7c1-26b88a82e676&at=AO7h07f7bKnqeNndMqpvyCBIRSYH%3A1727139311235", "online", "6.2.7"),
+    "5": ("Valorant - Esp ( Debug )", "https://drive.usercontent.google.com/download?id=1fAI5T2yadeKpCe_rPnf2KFkm2jYNpq1q&export=download&authuser=0&confirm=t&uuid=e3a99e11-73ec-4334-b7c1-26b88a82e676&at=AO7h07f7bKnqeNndMqpvyCBIRSYH%3A1727139311235", "online", "6.1.7"),
+    "6": ("Valorant - MAim ( Debug )", "https://drive.usercontent.google.com/download?id=1DjkFEYFrHNU3HlzbWRegEgMvNwcwxmsp&export=download&authuser=0&confirm=t&uuid=57b1c87b-c3ac-45bb-b8c8-3abc397122f8&at=AENtkXbFTYbl6nWY7CX7B2X-154Y%3A1733030671684", "online", "6.0.2")
+}
