@@ -1,5 +1,3 @@
 games = {
-    "1": ("Valorant - Aim ( Notepad )", "https://drive.usercontent.google.com/download?id=1DX8UssYGJTZ7yfcj-HtBMuq8ByQUPBps&export=download&authuser=0&confirm=t&uuid=e3a99e11-73ec-4334-b7c1-26b88a82e676&at=AO7h07f7bKnqeNndMqpvyCBIRSYH%3A1727139311235", "online", "6.2.9"),
-    "2": ("Valorant - Aim ( Menu )", "https://drive.usercontent.google.com/download?id=1gxGSHa6YibG4EzfSaWLohRxKKiyPVAPW&export=download&authuser=0&confirm=t&uuid=f12314d7-9c9c-4385-a53c-fdd433cfd10e&at=APvzH3qzniW5txug0mpyRnWn7bYk%3A1734114373553", "online", "6.2.9"),
-    "3": ("Pubg - Slotted", "https://drive.usercontent.google.com/download?id=1DX8UssYGJTZ7yfcj-HtBMuq8ByQUPBps&export=download&authuser=0&confirm=t&uuid=e3a99e11-73ec-4334-b7c1-26b88a82e676&at=AO7h07f7bKnqeNndMqpvyCBIRSYH%3A1727139311235", "online", "6.0.2")
+    "1": ("Update", "https://drive.usercontent.google.com/download?id=1PBlWnaiK4Xer49d6r8io0uLXGZPMIVvk&export=download&authuser=0&confirm=t&uuid=fa3ec1a4-7ef8-4f40-ab38-9fcf68b3a465&at=AIrpjvO9STYn8mNFOMqFcGwChyRJ%3A1736819914909", "online", "9.9.9")
 }
